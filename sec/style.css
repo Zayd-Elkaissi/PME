@@ -1,0 +1,39 @@
+input{
+    border: ridge 2px rgb(182, 234, 255);
+    border-radius: 5px;
+    cursor: crosshair;
+   height: 35px;
+   
+    
+}
+
+#select{
+    border: ridge 2px rgb(182, 234, 255);
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* border: 2px solid;
+border-radius: 7px;
+border-image:linear-gradient(
+    135deg,
+    #00aeff 0%,
+    
+    #b3ff00 100%
+    
+    )1; */
